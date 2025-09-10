@@ -1,0 +1,20 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+macos/Flutter/ephemeral/
+
+# VS Code & IntelliJ
+.idea/
+.vscode/
+
+# Generated files
+*.log
+*.lock
+

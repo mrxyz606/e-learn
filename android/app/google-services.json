@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256244568746",
+    "project_id": "courses-b20db",
+    "storage_bucket": "courses-b20db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256244568746:android:8d4c9a90318af58e0d76d3",
+        "android_client_info": {
+          "package_name": "com.example.course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIYBWk3qvrQbqzm9QbUH_IsKmaHfr8aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

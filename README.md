@@ -1,5 +1,7 @@
 # 🎓 E-Learn (Coursera Clone)
-
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 > 🎓 A modern Flutter e-learning app with Firebase authentication, course browsing, and progress tracking.
 
 A demo Flutter e-learning app inspired by **Coursera**.  

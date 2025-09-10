@@ -1,5 +1,7 @@
 # 🎓 E-Learn (Coursera Clone)
 
+> 🎓 A modern Flutter e-learning app with Firebase authentication, course browsing, and progress tracking.
+
 A demo Flutter e-learning app inspired by **Coursera**.  
 Users can browse courses, enroll, watch lessons, and track their progress.  
 Built with **Flutter** and **Firebase**.
